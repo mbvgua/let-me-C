@@ -1,0 +1,6 @@
+# ignore vcode settings
+.vscode/
+
+# ignore all the build files
+build/
+C/
