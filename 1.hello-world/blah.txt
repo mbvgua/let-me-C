@@ -1,4 +1,0 @@
-One essential part of learning DevOps is to understand how DevOps ﬁts into the whole
-software development lifecycle and what are the roles and responsibilities of a DevOps
-engineer. This should give you an overview and introduction to DevOps, before later
-learning DevOps tasks in detail.
